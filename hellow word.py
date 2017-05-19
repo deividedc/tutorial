@@ -1,2 +1,3 @@
-print("hellow word")
+x="hello world
+print(x)
 input()
