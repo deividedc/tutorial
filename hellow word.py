@@ -1,3 +1,4 @@
 x="hello world"
-print(x)
+for i in x:
+	print(x)
 input()
